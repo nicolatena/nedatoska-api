@@ -11,8 +11,8 @@ import (
 
 
 
-	"go-base-cleancode/entities/user/repository"
-	// "go-base-cleancode/entities/user"
+	"nedatoska-api/entities/user/repository"
+	// "nedatoska-api/entities/user"
  	// "github.com/gin-gonic/contrib/sessions"
 	// "github.com/itsjamie/gin-cors"
 

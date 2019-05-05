@@ -6,12 +6,12 @@ import (
 	"github.com/spf13/viper"
     "github.com/gin-gonic/gin"
 
-	"go-base-cleancode/infrastructure/config"
-	"go-base-cleancode/infrastructure/middleware"
+	"nedatoska-api/infrastructure/config"
+	"nedatoska-api/infrastructure/middleware"
 
-	_userHttpDeliver "go-base-cleancode/entities/user/delivery/http"
-	_productHttpDeliver "go-base-cleancode/entities/product/delivery/http"
-	_loginHttpDeliver "go-base-cleancode/entities/login/delivery/http"
+	_userHttpDeliver "nedatoska-api/entities/user/delivery/http"
+	_productHttpDeliver "nedatoska-api/entities/product/delivery/http"
+	_loginHttpDeliver "nedatoska-api/entities/login/delivery/http"
 )
 
 

@@ -3,7 +3,7 @@ package config
 
 import (
 	"github.com/jinzhu/gorm"
-    . "go-base-cleancode/models"
+    . "nedatoska-api/models"
 )
 
 

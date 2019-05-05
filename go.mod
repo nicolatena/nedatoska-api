@@ -1,4 +1,4 @@
-module go-base-cleancode
+module nedatoska-api
 
 go 1.12
 

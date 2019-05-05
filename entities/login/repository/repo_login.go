@@ -12,7 +12,7 @@ import (
     _ "github.com/jinzhu/gorm/dialects/postgres"
     "github.com/gin-gonic/contrib/sessions"
     jwt "github.com/dgrijalva/jwt-go"
-    . "go-base-cleancode/models"
+    . "nedatoska-api/models"
 )
 
 

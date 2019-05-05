@@ -11,7 +11,7 @@ import (
 
 
 
-	"go-base-cleancode/entities/product/repository"
+	"nedatoska-api/entities/product/repository"
 
 )
 

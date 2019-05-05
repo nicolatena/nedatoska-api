@@ -9,7 +9,7 @@ import (
 
 func Init() *gorm.DB {
 	
-	viper.SetConfigFile(`go-base-cleancode/config.json`)
+	viper.SetConfigFile(`nedatoska-api/config.json`)
 	err := viper.ReadInConfig()
 
 	if err != nil {

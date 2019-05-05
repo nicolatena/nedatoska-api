@@ -7,7 +7,7 @@ import (
 
 
 
-	"go-base-cleancode/entities/login/repository"
+	"nedatoska-api/entities/login/repository"
 )
 
 
